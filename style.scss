@@ -6,6 +6,8 @@
 }
 
 @import "partials/_colors.scss";
+@import "partials/header.scss";
+@import "partials/layout";
 
 body {
 
@@ -35,3 +37,5 @@ a{
     cursor: pointer;
     text-decoration: none;
 }
+
+
