@@ -143,3 +143,26 @@
     }
     
 }
+
+.services{
+    background-color: $white-normal;
+    color: $black-normal;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 54px 14px;
+}
+
+.services-content h2{
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 38px;
+    margin-bottom: 14px;
+}
+services-content p{
+    text-align: center;
+    line-height: 150%;
+    margin-bottom: 14px;
+    max-width: 750px;
+}
